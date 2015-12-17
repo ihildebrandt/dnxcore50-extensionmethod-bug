@@ -1,0 +1,14 @@
+{
+    "title": "Bug Demo",
+    "description": "Demo a bug found in dnxcore50",
+    "frameworks": {
+        "dnx451": {},
+        "dnxcore50": {
+            "dependencies": {
+                "System.Runtime": "4.0.0.0",
+                "System.Reflection": "4.0.0.0",
+                "System.Linq": "4.0.0.0",
+            }
+        }
+    }
+}
